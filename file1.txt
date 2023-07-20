@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 My home town is Rajasthan
 I am graduated from IIT Bhubaneswar which is in Orissa
 =======
 My home town:- I won't Tell
 I am graduated from:- Why do you care?
 >>>>>>> parent of bce9816... Commited Again
+=======
+My home town is in Rajasthan and the city is Jaipur which is known as Pink City
+I am graduated from IIT Bhubaneswar which is in Orissa
+>>>>>>> parent of a49c6d1... 2nd Change from the main branch

@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 My name is Mohit
 Joined Lumiq on 3rd July 2023 as a software developer
 =======
 Don't wanna tell my name
 Joined Lumiq on: - I won't tell
 >>>>>>> parent of bce9816... Commited Again
+=======
+My Full name is Mohit Kumar Soni
+Joined Lumiq on 3rd July 2023 as a software developer
+>>>>>>> parent of a49c6d1... 2nd Change from the main branch
